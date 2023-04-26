@@ -6,8 +6,8 @@
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name prabath",
-                "stop": "pm2 stop prabath"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name umanga",
+                "stop": "pm2 stop umanga"
                 },
                "author": "SamPandey001",
               "dependencies": {
