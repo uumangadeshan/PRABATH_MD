@@ -13,15 +13,15 @@ global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '94762280384'
 global.devs = '94762280384';
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fcute-chinese-red-dragon-head_692702-5794.jpg&tbnid=wemAIJJjQZqTMM&vet=12ahUKEwit_fWo-sn-AhXrodgFHToWBRoQMygBegUIARDkAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fcute-chinese-red-dragon-head_34219138.htm&docid=Vh9hm6zyE6OJ1M&w=428&h=626&q=red%20dragon&ved=2ahUKEwit_fWo-sn-AhXrodgFHToWBRoQMygBegUIARDkAQ'
 module.exports = {
   botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
   autosticker: process.env.AUTO_STICKER || 'false',
   autovoice: process.env.AUTO_VOICE || 'false',
   botapikey: process.env.BOTCAHX_API || '',
   alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
-  alivemsj: process.env.ALIVE_MSJ || '*The bot developer is prabath* 🎊',
-  ownername:process.env.OWNER_NAME || 'PRABATH',
+  alivemsj: process.env.ALIVE_MSJ || '*The bot developer is umanga * 🎊',
+  ownername:process.env.OWNER_NAME || 'umanga',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
