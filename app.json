@@ -2,10 +2,10 @@
 
   "name": "PRABATH-MD",
 
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description": "UMANGA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-
+  "logo": "",
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmymodernmet.com%2Fsimon-needham-lion-bone-hill%2F&psig=AOvVaw3Sw-olbyTfguP58Xka7yTO&ust=1682681791156000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC7uun8yf4CFQAAAAAdAAAAABAK
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
 
   "success_url": "/",
@@ -18,7 +18,7 @@
 
   "description": "BOT ට එන්න ඕන නම දෙන්න ",
 
-      "value": "👨‍💻 PRABATH-MD-WA-BOT 👨‍💻"
+      "value": "👨‍💻 UMANGA-WA-BOT 👨‍💻"
 
   },
 
@@ -140,7 +140,7 @@
 
     "description": "මෙය වෙනස් නොකරන්න ",
 
-     "value": "PRABATH-MD"
+     "value": "VIP-UMANGA"
 
   },
 
@@ -156,7 +156,7 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "UMANGA🎊;UMANGA✅",
 
      "required": false 
 
